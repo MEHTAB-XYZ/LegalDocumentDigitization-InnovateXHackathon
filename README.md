@@ -1,6 +1,6 @@
 # Legal Judgment Explorer — AI-Powered Search Engine for Court Cases
 
-**Hackathon Project | DUK Hackathon (March 15–16, 2025)**  
+**Hackathon Project | DUK Hackathon (March 15–16, 2025) - Won 3rd prize**  
 **Problem Statement:** Build a scalable, intuitive system to digitize and semantically explore legal judgments using AI.
 
 ---
