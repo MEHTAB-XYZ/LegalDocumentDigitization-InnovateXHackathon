@@ -59,9 +59,5 @@ This project is a comprehensive solution designed to digitize, organize, and int
 - Improve chatbot capabilities with RAG or custom fine-tuned models
 - Deploy a full-stack version with database support and authentication
 
----
 
-## Contribution
-
-This project was developed as part of a team effort during the DUK Hackathon. Contributions are welcome for improvements, refactoring, or deploying to production.
 
