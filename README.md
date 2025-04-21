@@ -7,7 +7,7 @@
 
 ## Overview
 
-This project is a comprehensive solution designed to digitize, organize, and intelligently search a large dataset of court judgments using modern NLP and vector search techniques. Built during a 36-hour hackathon, the goal was to make complex legal documents easily explorable through an AI-powered interface.
+This project is a comprehensive solution designed to digitize, organize, and intelligently search a large dataset of court judgments using modern NLP and vector search techniques. Built during a 48-hour hackathon, the goal was to make complex legal documents easily explorable through an AI-powered interface.
 
 ---
 
